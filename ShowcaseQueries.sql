@@ -1,4 +1,3 @@
--- Active: 1679016388513@@127.0.0.1@5432@carnival@public
 DROP VIEW IF EXISTS dealership_performance_by_year;
 
 CREATE OR REPLACE VIEW dealership_performance_by_year AS
